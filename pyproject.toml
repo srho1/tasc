@@ -5,3 +5,15 @@ build-backend = "setuptools.build_meta"
 [project]
 name = "TimeAwareSC"
 version = "0.1.0"
+dependencies = [
+    "numpy",
+    "scipy",
+    "scikit-learn",
+    "pandas",
+    "torch",
+    "matplotlib",
+    "causalimpact",
+    "pyreadr",
+    "tensorflow",
+    "tensorflow-probability",
+]
