@@ -3,5 +3,5 @@ requires = ["setuptools"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "KalmanSC"
+name = "TimeAwareSC"
 version = "0.1.0"
